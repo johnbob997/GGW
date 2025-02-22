@@ -1,0 +1,1 @@
+These files are the foundational data and processing code for the paper titled Land Productivity Declines in the GGW While Human Contributions to Restoration Far Outweigh Degradation. The core code is written in the JavaScript environment of Google Earth Engine, and the relevant code is saved in the file LPD and RI calculation (important).txt.

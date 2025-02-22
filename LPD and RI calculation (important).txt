@@ -1,0 +1,5 @@
+LPD can be calculated using: https://code.earthengine.google.com/b41f083f62c421e83077c29979b1bcdb. 
+
+RI can be calculated using: https://code.earthengine.google.com/1821c23aeb00d0a386630ce37e502d6c.
+
+Integration of RI results in four cases and Dominant factor calculation: https://code.earthengine.google.com/57288286cd277545c8691294978b8c53
